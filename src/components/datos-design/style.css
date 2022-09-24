@@ -1,0 +1,63 @@
+.datos-design{
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #0d0d0d;
+    color: #fff;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+.datos-design::after{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(77, 157, 177, 0.148);
+    filter: blur(8px);
+    z-index: -1;
+}
+
+.datos-design h2{
+    font-size: 2rem;
+    margin-bottom: 5px;
+}
+.datos-design p{
+    font-size: 1rem;
+    color: rgba(255, 255, 255, 0.555);
+}
+.datos-design__content{
+    width: 80%;
+    max-width: 1200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 35px 0px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.382);
+}
+.datos-design__content:nth-child(3){
+    width: 80%;
+    max-width: 1200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: none;
+}
+
+@media (min-width: 700px){
+    .datos-design{
+        padding: 25px;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .datos-design__content{
+        border: none;
+        border-right: 1px solid rgba(255, 255, 255, 0.382);
+    }
+}
