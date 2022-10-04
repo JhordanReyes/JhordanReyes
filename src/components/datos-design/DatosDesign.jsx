@@ -10,7 +10,7 @@ const DatosDesign = () => {
           <p>Años Programando</p>
         </div>
         <div className='datos-design__content'>
-          <h2>8+</h2>
+          <h2>10+</h2>
           <p>Tecnologías</p>
         </div>
         <div className='datos-design__content'>

@@ -5,6 +5,7 @@ import Footer from "./components/footer/Footer";
 import Header from "./components/header/Header";
 import Loader from "./components/loader/Loader";
 import Nav from "./components/nav/Nav";
+import Proyectos from "./components/proyectos/Proyectos";
 import Redes from "./components/redes/Redes";
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
       <div className="App">
         <Nav />
         <Header />
+        <Proyectos />
         <DatosDesign />
         <Redes />
         <Footer />

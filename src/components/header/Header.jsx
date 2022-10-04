@@ -15,7 +15,7 @@ const Header = () => {
             </div>
 
             <div className='header__container-button'>
-                <a href="#redes" className='header__a'>
+                <a href="#projects" className='header__a'>
                     <div className='header__button'>
                         <p>Get started</p>
                         <i className='bx bx-down-arrow-alt'></i>

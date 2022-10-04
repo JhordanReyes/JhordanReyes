@@ -17,7 +17,7 @@
     left: 0;
     bottom: 0;
     right: 0;
-    background-color: rgba(77, 157, 177, 0.148);
+    background-color: rgba(40, 35, 43, 0.148);
     filter: blur(8px);
     z-index: -1;
 }

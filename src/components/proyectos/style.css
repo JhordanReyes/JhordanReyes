@@ -1,0 +1,32 @@
+.proyectos-text{
+    background-color: #0f0f0f;
+    padding: 70px 25px;
+}
+.proyectos-text h2{
+    color: white;
+    font-size: 35px;
+    text-align: center;
+    text-transform: uppercase;
+    text-align: start;
+    margin-bottom: 30px;
+}
+.proyectos-text p{
+    color: rgba(255, 255, 255, 0.555);
+    font-size: 18px;
+    line-height: 25px;
+}
+.proyectos-container{
+    padding: 40px 10px;
+    display: grid;
+    gap: 20px;
+}
+@media (min-width: 700px){
+    .proyectos-container{
+        grid-template-columns: 1fr 1fr;
+    }
+}
+@media (min-width: 1000px){
+    .proyectos-container{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
