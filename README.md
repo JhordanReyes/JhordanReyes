@@ -1,6 +1,4 @@
 # console.log("Hello World 👋🏻")
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
 
 Front end developer
 
