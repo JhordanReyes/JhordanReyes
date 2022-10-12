@@ -6,7 +6,7 @@ import img2 from "../../assets/page-snap.jpeg";
 import img3 from "../../assets/loopstudios.jpeg";
 import img4 from "../../assets/car-razer.jpeg";
 import img5 from "../../assets/original-trombones.jpeg";
-import img6 from "../../assets/reloj-digital.jpeg";
+import img6 from "../../assets/shop.jpeg";
 
 const Proyectos = () => {
   return (
@@ -16,6 +16,12 @@ const Proyectos = () => {
         <p>Mi colección de paginas web, seleccione una de las tarjetas para poder ver el código fuente o ingresar a la página.</p>
       </div>
         <div className="proyectos-container">
+          <Proyecto
+            title="Shop."
+            img={img6}
+            url={"https://jhordanreyes.github.io/Shop/"}
+            urlCode={"https://github.com/JhordanReyes/Shop"}
+          />
           <Proyecto
             title="Loopstudios"
             img={img3}
@@ -45,12 +51,6 @@ const Proyectos = () => {
               img={img5}
               url={"https://jhordanreyes.github.io/OriginalTrombones/"}
               urlCode={"https://github.com/JhordanReyes/OriginalTrombones"}
-            />
-            <Proyecto
-              title="Reloj Digital"
-              img={img6}
-              url={"https://jhordanreyes.github.io/Reloj-Digital/"}
-              urlCode={"https://github.com/JhordanReyes/Reloj-Digital"}
             />
         </div>
     </div>
