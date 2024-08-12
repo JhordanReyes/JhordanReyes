@@ -11,12 +11,11 @@
 ### 📝 Lenguajes de Programación
 
 [![My Skills](https://skillicons.dev/icons?i=cs,js,ts,java,php&theme=light)](https://skillicons.dev)
-- C# (Intermedio)
-- Base de datos (Intermedio)
-- JavaScript (Intermedio)
+
+### 📝 Base de datos
+
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
+
 - React (Intermedio)
-- TypeScript (Intermedio)
-- Java (Básico)
-- PHP (Básico)
 - CSS  (Avanzado)
 - Git (Básico)
