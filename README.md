@@ -10,7 +10,8 @@
 
 ### 📝 Habilidades
 lenguajes
-[![My Skills](https://skillicons.dev/icons?i=cs,js,java&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=cs,js,java,php&theme=light)](https://skillicons.dev)
 - C# (Intermedio)
 - Base de datos (Intermedio)
 - JavaScript (Intermedio)
