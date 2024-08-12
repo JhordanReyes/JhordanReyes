@@ -11,6 +11,7 @@
 
 ### 📝 Languages
 - Javascript
+- C#
 - Java
 - PHP
 
