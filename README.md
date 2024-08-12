@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jhordan Reyes</h1>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jhordanreyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhordanreyes" height="30" width="40" /></a>
