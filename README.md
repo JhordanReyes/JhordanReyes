@@ -5,7 +5,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-### 📝 Languages
+### 📝 Sobre mi
+- Soy estudiante de Ingeniería de Sistemas e Informática con experiencia en desarrollo de aplicaciones de escritorio con C# y web utilizando JavaScript. Estoy comprometido con la excelencia técnica y siempre abierto a aprender nuevas tecnologías para potenciar mis habilidades y contribuir eficazmente al equipo. 
+
+- ### 📝 Languages
 - Javascript
 - C#
 - Java
