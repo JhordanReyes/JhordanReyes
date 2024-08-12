@@ -14,7 +14,7 @@
 
 ### 📝 Base de datos
 
-[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlserver&theme=light)](https://skillicons.dev)
 
 - React (Intermedio)
 - CSS  (Avanzado)
