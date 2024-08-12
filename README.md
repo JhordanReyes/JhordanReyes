@@ -9,9 +9,9 @@
 - Soy estudiante de Ingeniería de Sistemas e Informática con experiencia en desarrollo de aplicaciones de escritorio con C# y web utilizando JavaScript. Estoy comprometido con la excelencia técnica y siempre abierto a aprender nuevas tecnologías para potenciar mis habilidades y contribuir eficazmente al equipo. 
 
 ### 📝 Habilidades
-lenguajes
+- lenguajes
 
-[![My Skills](https://skillicons.dev/icons?i=cs,js,java,php&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,js,ts,java,php&theme=light)](https://skillicons.dev)
 - C# (Intermedio)
 - Base de datos (Intermedio)
 - JavaScript (Intermedio)
